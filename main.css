@@ -11,13 +11,13 @@ h1 {
 }
 
 html {
-    background-color:rgb(255, 0, 255)
+    background-color:#ff00ff
 }
 
 h2 {
     text-align:center;
-    background-color:rgb(255, 0, 255);
-    padding: 350;
+    background-color:#ff00ff;
+    padding:  280px;
     color:#000000;
     font-size: 30px;
 }
@@ -32,3 +32,13 @@ h3 {
     font-size: 60px;
     text-align: center;
 }
+
+h4 {
+    text-align:center;
+    color:#000000;
+    font-size: 30px;
+    margin: 50px;
+    background-color: chartreuse;
+}
+
+
