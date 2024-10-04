@@ -1,47 +1,44 @@
 
-h1 {
-    margin:auto;
-    padding: 15px 0;
-    color: #000000;
-    background-color: rgb(255, 0, 0);
+html{
+    background-color:rgb(255, 255, 255);
 }
-h1 {
-    font-size: 60px;
+#Bandeau{
+    background-color:aqua;
+    width:100%;
     text-align: center;
+    height: 150px;
 }
-
-html {
-    background-color:#ff00ff
-}
-
-h2 {
-    background-color:#ff00ff;
-    color:#000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 75vh
-}
-h4 {
-    float: left;
-  padding: 100px;
-  margin:auto;
-    color:#000000;
-    background-color: rgb(7, 218, 17);
-    height:565px;
-}
-
-h3 {
-    margin:auto;
-    padding: 15px 0;
-    color: #000000;
-    background-color: rgb(255, 251, 0);
-}
-h3 {
-    font-size: 60px;
+#Menu{
+    background-color:gold;
+    width:100%;
     text-align: center;
+    float:initial
 }
-
-
-
-
+#Contenu{
+    background-color:gold;
+    width:100%;
+    text-align: center;
+    float:initial;
+}
+#MenuHaut{
+  background-color:chartreuse;
+  width:250px;  
+  height:300px;
+}
+#MenuBas{
+    background-color:blueviolet;
+    width:250px;
+    height:300px;
+}
+#MenuDroite{
+    background-color:red;
+    width:250px;
+    height:300px;
+    float:right;
+}
+#Pieddepage{
+    background-color:greenyellow;
+    width:100%;
+    text-align:center;
+    height:150px;
+}
