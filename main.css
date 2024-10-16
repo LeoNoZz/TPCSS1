@@ -1,44 +1,43 @@
-
-h1 {
-    margin: 0;
-    padding: 15px 0;
-    color: #000000;
-    background-color: rgb(255, 0, 0);
+html{
+    background-color:rgb(255, 255, 255);
 }
-h1 {
-    font-size: 60px;
+#Bandeau{
+    background-color:aqua;
+    width:100%;
     text-align: center;
+    height: 150px;
 }
-
-html {
-    background-color:#ff00ff
-}
-
-h2 {
-    text-align:center;
-    background-color:#ff00ff;
-    padding:  280px;
-    color:#000000;
-    font-size: 30px;
-}
-
-h3 {
-    margin: 0;
-    padding: 15px 0;
-    color: #000000;
-    background-color: rgb(255, 251, 0);
-}
-h3 {
-    font-size: 60px;
+#Menu{
+    background-color:gold;
+    width:100%;
     text-align: center;
+    float:initial
 }
-
-h4 {
+#Contenu{
+    background-color:gold;
+    width:100%;
+    text-align: center;
+    float:initial;
+}
+#MenuHaut{
+  background-color:chartreuse;
+  width:250px;  
+  height:300px;
+}
+#MenuBas{
+    background-color:blueviolet;
+    width:250px;
+    height:300px;
+}
+#MenuDroite{
+    background-color:red;
+    width:250px;
+    height:300px;
+    float:right;
+}
+#Pieddepage{
+    background-color:greenyellow;
+    width:100%;
     text-align:center;
-    color:#000000;
-    font-size: 30px;
-    margin: 50px;
-    background-color: chartreuse;
+    height:150px;
 }
-
-
